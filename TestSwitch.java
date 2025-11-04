@@ -30,6 +30,9 @@ public class TestSwitch{
             case 5:
             System.out.println("di sini hadir dari sabang sampai merauke, bapaknya dari mana?");
             break;   
+
+            default:
+            System.out.println("Hidoep Djokowiie!!!!!!");
         }
         myScanner.close();
     }
