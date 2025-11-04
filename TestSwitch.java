@@ -12,27 +12,27 @@ public class TestSwitch{
             
         switch (line){
             case 1:
-            System.out.println("Yo ndak tau kok tanya saya");
+                System.out.println("Yo ndak tau kok tanya saya");
             break;    
             
             case 2:
-            System.out.println("uooh... kaget");
+                System.out.println("uooh... kaget");
             break;   
 
             case 3:
-            System.out.println("selamat, berjuang... sukses");
+                System.out.println("selamat, berjuang... sukses");
             break;   
 
             case 4:
-            System.out.println("we wok de tok, not anle tok de tok");
+                System.out.println("we wok de tok, not anle tok de tok");
             break;  
             
             case 5:
-            System.out.println("di sini hadir dari sabang sampai merauke, bapaknya dari mana?");
+                System.out.println("di sini hadir dari sabang sampai merauke, bapaknya dari mana?");
             break;   
 
             default:
-            System.out.println("Hidoep Djokowiie!!!!!!");
+                System.out.println("Hidoep Djokowiie!!!!!!");
         }
         myScanner.close();
     }
